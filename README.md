@@ -1,6 +1,6 @@
 Magic starts with:
 
-docker-compose -f docker-compose-postgres-es.yml up
+```docker-compose -f docker-compose-postgres-es.yml up```
 
 Issues ?
 
