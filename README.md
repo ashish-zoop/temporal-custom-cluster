@@ -6,4 +6,4 @@ Issues ?
 
 Try - 
 
-docker compose -f docker-compose-postgres12.yml up --build
+```docker compose -f docker-compose-postgres12.yml up --build```
